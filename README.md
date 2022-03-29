@@ -1,4 +1,4 @@
-# MyBlog-MVC-Pure PHP Ready to use MVC structure
+# MyBlog - Pure PHP Ready to use MVC structure
 
 This is a personal project I made to teach myself how MVC works so I can use it for future projects. Some of the topics I learnt by doing this:
 
