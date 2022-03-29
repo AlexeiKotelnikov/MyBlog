@@ -1,6 +1,6 @@
-# MyBlog - Pure PHP Ready to use MVC structure
+# MyBlog - Functional and Pure PHP Ready to use MVC structure
 
-This is a personal project I made to teach myself how MVC works so I can use it for future projects. Some of the topics I learnt by doing this:
+This is a personal project I made to teach myself how MVC works so I can use it for future projects. This is a parody of a multiplayer blog.  It is possible to register multiple users and each user can create/edit/delete only his own articles. A personal account of the user is implemented. The output of articles by categories. Logging. Some of the topics I learnt by doing this:
 
 <ul dir="auto">
 <li>MVC pattern</li>
