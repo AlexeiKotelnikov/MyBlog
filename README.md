@@ -15,7 +15,7 @@ This is a personal project I made to teach myself how MVC works so I can use it 
 
 <ol dir="auto">
 <li>Download as .zip or clone this repo using<br>
-<code>git clone https://github.com/AlexeiKotelnikov/MyBlog-MVC.git</code></li>
+<code>git clone https://github.com/AlexeiKotelnikov/MyBlog.git</code></li>
 <li>Import the <code>data/MyBlog.sql</code> file to phpMyAdmin</li>
 <li>Start your Apache server and go to <a href="http://localhost/MyBlog" rel="nofollow">http://localhost/MyBlog</a></li>
 </ol>
